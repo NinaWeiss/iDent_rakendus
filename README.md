@@ -1,4 +1,4 @@
-#STEP 1: Flutteri paigaldamine Windowsile
+STEP 1: Flutteri paigaldamine Windowsile
 
 Süsteeminõuded:
 
@@ -34,7 +34,7 @@ Kui soovite Flutteri käske käivitada tavalises Windowsi konsoolis, tehke järg
 - Veenduge, et AVD-konfiguratsioon on õige, ja valige Finish (Lõpeta).
 - Android Virtual Device Manageris klõpsake tööriistaribal Run (Käivita). Emulaator käivitub ja kuvab valitud operatsioonisüsteemi versiooni ja seadme jaoks vaikimisi lõuendi.
 
-#STEP 2: Redaktori seadistamine ja iDent_rakendus allalaadimine GitHubist
+STEP 2: Redaktori seadistamine ja iDent_rakendus allalaadimine GitHubist
 
 - Avage Android Studio
 - Paigaldage Flutter ja Dart pluginad 
@@ -47,5 +47,5 @@ Kui soovite Flutteri käske käivitada tavalises Windowsi konsoolis, tehke järg
 - Kui projekt on android studio's avatud, peate uuendama sõltuvusi. Pakettide installimiseks klõpsake nupule Get dependencies.
 - Käivitage rakendus, käivitades "main.dart"
 
-#Flutteri paigaldamine Macile
+Flutteri paigaldamine Macile
 - Klõpsake järgmisel lingil, et näha, kuidas paigaldada Flutter for Mac https://flutter.dev/docs/get-started/install/macos.
